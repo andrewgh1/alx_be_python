@@ -1,4 +1,5 @@
 # alx_be_python
 Python exercise
-Performed Arithmetric operations , see basic_operations.py file
-Performed a simple Calculation on simple interest , see simple_interest.py file
+Arithmetric operations , see basic_operations.py file
+Calculation on simple interest , see simple_interest.py file
+area of a rectangle script , see rectangle_area.py file
